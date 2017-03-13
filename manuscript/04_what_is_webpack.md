@@ -1,4 +1,4 @@
-# What is Webpack?
+# Webpack 是什么?
 
 Webpack is a module bundler. You can use a separate task runner while leaving it to take care of bundling, however this line has become blurred as the community has developed plugins for it. Sometimes these plugins are used to perform tasks that are usually done outside of webpack, for example cleaning the build directory or deploying the build.
 
